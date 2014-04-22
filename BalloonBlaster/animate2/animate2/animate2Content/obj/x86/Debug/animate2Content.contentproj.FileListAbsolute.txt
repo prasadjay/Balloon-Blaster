@@ -1,0 +1,3 @@
+C:\Users\Theekshana\documents\visual studio 2010\Projects\animate2\animate2\animate2Content\obj\x86\Debug\animate2Content.contentprojResolveAssemblyReference.cache
+C:\Users\janakahasarel\Desktop\Mahesh\animate2\animate2\animate2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\janakahasarel\Desktop\Mahesh\animate2\animate2\animate2Content\obj\x86\Debug\Audio\GameAudio.xml
